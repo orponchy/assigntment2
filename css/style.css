@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.containers{
+width: 1400px;
+height: 848px;
+background-color: rgb(4, 175, 197);
+margin: 0px auto;
+padding: 0px;
+}
+a{color: white;
+text-decoration: none;
+font-size: 20px;
+display: block;
+padding: 10px 35px;
+} 
+a:hover{
+	 	color: black;
+	    background-color: white;
+	    text-transform: uppercase;
+	}
+
+ul{
+	margin: 0;
+padding: 0;
+list-style: none;
+}
+li{
+	float: left;
+}
+.menu{
+	background: rgba(8, 137, 188, 0.72) none repeat scroll 0% 0%;
+overflow: hidden;
+}
+
+.main-container{
+	height: 800px;
+background: blue none repeat scroll 0% 0%;
+width: 100%;
+}
+
+.left{
+	height: 800px;
+width: 70%;
+background: red none repeat scroll 0% 0%;
+float: left;
+}
+.one{
+	width: 70%;
+background: #000 none repeat scroll 0% 0%;
+float: left;
+height: 250px;
+}
+.two{
+	width: 30%;
+background: #00F none repeat scroll 0% 0%;
+float: left;
+height: 250px;
+}
+.three{
+	height: 300px;
+width: 33.33333%;
+background: red none repeat scroll 0% 0%;
+float: left;
+}
+.right{
+	width: 30%;
+background: #FF0 none repeat scroll 0% 0%;
+float: left;
+height: 800px;
+}
+.four{
+	width: 100%;
+height: 400px;
+background: cyan;
+}
+.footer{
+	    background: rgba(8, 137, 188, 0.72) none repeat scroll 0% 0%;
+}
+
+h3{
+color: #FFF;
+text-align: center;
+margin: 0px;
+padding: 0px;
+}
