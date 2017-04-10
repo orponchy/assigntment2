@@ -76,7 +76,9 @@ height: 400px;
 background: cyan;
 }
 .footer{
-	    background: rgba(8, 137, 188, 0.72) none repeat scroll 0% 0%;
+	    
+	    background: rgb(8, 137, 188) none repeat scroll 0% 0%;
+}
 	
 }
 
@@ -85,5 +87,5 @@ color: #FFF;
 text-align: center;
 margin: 0px;
 padding: 0px;
-background: #01a5a5;
+
 }
